@@ -1,6 +1,6 @@
 name = "Clingo_jll"
 uuid = "e1d4ad0e-dc8b-5d2d-8155-e9a55b531f08"
-version = "5.4.1+0"
+version = "5.4.1+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
