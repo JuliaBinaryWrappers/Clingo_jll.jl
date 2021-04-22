@@ -5,7 +5,7 @@ JLLWrappers.@generate_wrapper_header("Clingo")
 JLLWrappers.@declare_executable_product(clasp)
 JLLWrappers.@declare_executable_product(clingo)
 JLLWrappers.@declare_executable_product(gringo)
-JLLWrappers.@declare_library_product(libclingo, "@rpath/libclingo.3.dylib")
+JLLWrappers.@declare_library_product(libclingo, "@rpath/libclingo.4.dylib")
 JLLWrappers.@declare_executable_product(lpconvert)
 JLLWrappers.@declare_executable_product(reify)
 function __init__()
@@ -27,7 +27,7 @@ function __init__()
 
     JLLWrappers.@init_library_product(
         libclingo,
-        "lib/libclingo.3.0.dylib",
+        "lib/libclingo.4.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
