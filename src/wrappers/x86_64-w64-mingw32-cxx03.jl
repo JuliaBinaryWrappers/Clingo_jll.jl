@@ -2,14 +2,20 @@
 export clasp, clingo, gringo, libclingo, lpconvert, reify
 
 JLLWrappers.@generate_wrapper_header("Clingo")
+JLLWrappers.@declare_library_product(libclingo, "libclingo.dll")
 JLLWrappers.@declare_executable_product(clasp)
 JLLWrappers.@declare_executable_product(clingo)
 JLLWrappers.@declare_executable_product(gringo)
-JLLWrappers.@declare_library_product(libclingo, "libclingo.dll")
 JLLWrappers.@declare_executable_product(lpconvert)
 JLLWrappers.@declare_executable_product(reify)
 function __init__()
     JLLWrappers.@generate_init_header()
+    JLLWrappers.@init_library_product(
+        libclingo,
+        "bin\\libclingo.dll",
+        RTLD_LAZY | RTLD_DEEPBIND,
+    )
+
     JLLWrappers.@init_executable_product(
         clasp,
         "bin\\clasp.exe",
@@ -23,12 +29,6 @@ function __init__()
     JLLWrappers.@init_executable_product(
         gringo,
         "bin\\gringo.exe",
-    )
-
-    JLLWrappers.@init_library_product(
-        libclingo,
-        "bin\\libclingo.dll",
-        RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_executable_product(
