@@ -1,174 +1,174 @@
 [[Clingo]]
 arch = "aarch64"
-git-tree-sha1 = "a5f5b166437ef1ce8f8c28222390b0d5cf3c4b01"
+git-tree-sha1 = "e39013a55db4a726c688927813aaf516fa48894a"
 os = "macos"
 
     [[Clingo.download]]
-    sha256 = "f60e0c208fcb3696023d99a211d19825f8b63018563307e20c3fb57f348b86ba"
-    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.0+0/Clingo.v5.8.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "c395f214ea7fcb36418902880cee99b26bfa234d4ef6a648349f612e9795ec19"
+    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.2+0/Clingo.v5.8.2.aarch64-apple-darwin.tar.gz"
 [[Clingo]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "23e407584d18fc61010fd46c49f64aec6810c693"
+git-tree-sha1 = "69fcc0534f98076d2eae647d1cd803bf9c625c55"
 libc = "glibc"
 os = "linux"
 
     [[Clingo.download]]
-    sha256 = "acb6241b082b04c95b5e3292ffcc9feae072458434a0493182b08822209102bd"
-    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.0+0/Clingo.v5.8.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "4b84b3cd3c1d6822450050dda85b39e72ed68e7f11598210c87b2cd3e9ccfcc6"
+    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.2+0/Clingo.v5.8.2.aarch64-linux-gnu-cxx11.tar.gz"
 [[Clingo]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3ec9de1db4c904a4921ed27855080048744657df"
+git-tree-sha1 = "634ffc125c068e1fe0538718b3c93dfb874c1a56"
 libc = "musl"
 os = "linux"
 
     [[Clingo.download]]
-    sha256 = "68c62569362783c3fd1c9d84236fe35c0f8e0b763bbf30a32dc34e8fc5d24050"
-    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.0+0/Clingo.v5.8.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "d12368577064a8fcd2ae0e6254b35c7c4a57261f5cdff2cfa80219ae2b348af3"
+    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.2+0/Clingo.v5.8.2.aarch64-linux-musl-cxx11.tar.gz"
 [[Clingo]]
 arch = "aarch64"
-git-tree-sha1 = "e3b1154f32174ea89f878a1042e672b1eadfd695"
+git-tree-sha1 = "49a2aff7e8f1424769dc4d8bd800a656042e1620"
 os = "freebsd"
 
     [[Clingo.download]]
-    sha256 = "42d62b6f672548ab8ca4be63e6f8eb566775dc7111c94ccd25ce2d630d9522c4"
-    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.0+0/Clingo.v5.8.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "1b6116a61574d4e1bb92226e3d559326456034fc7a8154c382fa8b61b12a71e1"
+    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.2+0/Clingo.v5.8.2.aarch64-unknown-freebsd.tar.gz"
 [[Clingo]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1d0e0440554e9321dfcaf56802172c264136f1ea"
+git-tree-sha1 = "ef344203fe2f27bf59adfa4ff96d9978f31a8b85"
 libc = "glibc"
 os = "linux"
 
     [[Clingo.download]]
-    sha256 = "0e51a15a7b4d8961b59b4f58f79164e235e1283935d4a61bbb498a94a23912f8"
-    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.0+0/Clingo.v5.8.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "3d4a70ee1c306be4fe2901b2ab4bf8cac2ada2e5b04cfd1d18ee703c4d19bf19"
+    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.2+0/Clingo.v5.8.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[Clingo]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4d9a4f217da5386a25afe2da821df54ea206cea6"
+git-tree-sha1 = "a91a6cec9e58187967d514333d3b97f98726ef4d"
 libc = "musl"
 os = "linux"
 
     [[Clingo.download]]
-    sha256 = "efc1623f6fd34af2923fb040466624b9a452db8bd9de20ac4c3788b791fe74c1"
-    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.0+0/Clingo.v5.8.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "6cce95c8c02c3e2e8555c6b3325676c902ca706b6074b88e08e5be3043610dca"
+    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.2+0/Clingo.v5.8.2.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[Clingo]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a800de93812d67ded758d873b4fea94a161fc25e"
+git-tree-sha1 = "dd655ce26f3a89d40d59c15b7dec2bb1c93490d3"
 libc = "glibc"
 os = "linux"
 
     [[Clingo.download]]
-    sha256 = "35889723d0c0385d796a4c02699f742dfd0f2b3b3c75923d490a9a60518f2b6c"
-    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.0+0/Clingo.v5.8.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "f6abaee90262e83c01fbf6353402e089932df8a71a056c9da8ebe116e959842b"
+    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.2+0/Clingo.v5.8.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[Clingo]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a86cc127a03b5b0825b24faf4e899eeb8650e4b4"
+git-tree-sha1 = "a4c7c6ba63eff13acd56e3fa0599d2f306c1a4e3"
 libc = "musl"
 os = "linux"
 
     [[Clingo.download]]
-    sha256 = "d20e71d64fde4a8bcac218234cdeffdd0288b012e2067d8900338ff300cabbdb"
-    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.0+0/Clingo.v5.8.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "893c2dfcb3a5b9780314fb5dec9dbab3048cf80f1162adefe56b337c7cc15b8a"
+    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.2+0/Clingo.v5.8.2.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[Clingo]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ec7f62d0e5373b205a1a7f59b167a1db0646bf4e"
+git-tree-sha1 = "208088334966dbfa1c0b77abdae92e778f4d6d26"
 libc = "glibc"
 os = "linux"
 
     [[Clingo.download]]
-    sha256 = "528a70c06211386852413d49956bab5404b44492e0ea5e8961dc94b2afe9c04e"
-    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.0+0/Clingo.v5.8.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "57f1cde44ada4b8bcdfe19f655a839a4dde860985bc445a44fb34e273dceda29"
+    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.2+0/Clingo.v5.8.2.i686-linux-gnu-cxx11.tar.gz"
 [[Clingo]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "668ddb4efa502c04fec93a15ea27f8f69cb17f9d"
+git-tree-sha1 = "4898ad49a730ffefe1ae87ccb26282bac349f437"
 libc = "musl"
 os = "linux"
 
     [[Clingo.download]]
-    sha256 = "c0d50d05481f87d9f61b818e032c899d74a5597d0341e43607950ae1a1a88e1c"
-    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.0+0/Clingo.v5.8.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "8f3f92bcd67758c1e0a0c9ac31df3e3ba4c358aaaa430c6934d725bf61e0083e"
+    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.2+0/Clingo.v5.8.2.i686-linux-musl-cxx11.tar.gz"
 [[Clingo]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bb09efe143bb9829106434996497cfaa33e8656b"
+git-tree-sha1 = "03bbbc8a1ade3334dfd288f8d9b44f334cbd1f55"
 os = "windows"
 
     [[Clingo.download]]
-    sha256 = "58a6b5623cc7eb0def2fa55723837319a6a8d581103d9e762b307bb4408d6b00"
-    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.0+0/Clingo.v5.8.0.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "236a878f742e4519319a73b6f54e71a55cb6edd51f5efa569ad0dfb9771c60b6"
+    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.2+0/Clingo.v5.8.2.i686-w64-mingw32-cxx11.tar.gz"
 [[Clingo]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4a69136a28efbdb9cd8381871e9fad614a8d1a0c"
+git-tree-sha1 = "033c5ee6fd7992447622d04859fa47d7b9be903b"
 libc = "glibc"
 os = "linux"
 
     [[Clingo.download]]
-    sha256 = "adc4db32bd1a80a892df6e7b12fc9a899c11b56482bf1067978160486699da47"
-    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.0+0/Clingo.v5.8.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "bed605c622c421228f812062a24c9bdeddad2912668acdc288cdb846c546b885"
+    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.2+0/Clingo.v5.8.2.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[Clingo]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0a7d9f3e31674b4b1f62e2fd8acd53cc6c466873"
+git-tree-sha1 = "0a749af49440f423cf5ca695b72d0cb4524bb7d8"
 libc = "glibc"
 os = "linux"
 
     [[Clingo.download]]
-    sha256 = "9dd392e131bfdffac91310c8a0f4064d6b567dace3b37bad64844a4d46ae3ca3"
-    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.0+0/Clingo.v5.8.0.riscv64-linux-gnu-cxx11.tar.gz"
+    sha256 = "68de0164409ba549e5ef3b4e0d02085135c193709376dfdd91e979626d88784e"
+    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.2+0/Clingo.v5.8.2.riscv64-linux-gnu-cxx11.tar.gz"
 [[Clingo]]
 arch = "x86_64"
-git-tree-sha1 = "d350f3e4fedcb30cd9c9d6da84f18e1e34735299"
+git-tree-sha1 = "47666c2f033290160baa4f4b526218cc4e7b44ef"
 os = "macos"
 
     [[Clingo.download]]
-    sha256 = "6a4de50a3ab84a5e89b20da8309bc94d7f0692c2881f879f33dd99f795c8f57f"
-    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.0+0/Clingo.v5.8.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "3c86790ba61c6c3c30afecfc2b49dcac36b2f61a2b76f83cb23b455a20e06e02"
+    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.2+0/Clingo.v5.8.2.x86_64-apple-darwin.tar.gz"
 [[Clingo]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f9dca1c36d0329772b62e2d429ec1be720aa85c3"
+git-tree-sha1 = "b608a1cb1d9078f77e14ff7653cf103c7c344610"
 libc = "glibc"
 os = "linux"
 
     [[Clingo.download]]
-    sha256 = "5f08c20a4ed484e0cac3480d6aa6de174e479e0b46dcb15edd44e7b0a8632d8e"
-    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.0+0/Clingo.v5.8.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "105f949a4ad3640ffc78c9801a4ea5a48249abf4ec484109d8f854887003c3be"
+    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.2+0/Clingo.v5.8.2.x86_64-linux-gnu-cxx11.tar.gz"
 [[Clingo]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6493dfd10237410d71dc83e20c839cf51e1e55d1"
+git-tree-sha1 = "789e009190d51ea337e3c65c500f235fc1285f10"
 libc = "musl"
 os = "linux"
 
     [[Clingo.download]]
-    sha256 = "b77ac2d57dde0825e475eafae6d92e2b7492ad868f060f32fc462c155744112d"
-    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.0+0/Clingo.v5.8.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "7eb94e691c15a7f413786e2487f05cab3cac1b4498652196c0d2d1393383e4f6"
+    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.2+0/Clingo.v5.8.2.x86_64-linux-musl-cxx11.tar.gz"
 [[Clingo]]
 arch = "x86_64"
-git-tree-sha1 = "52fd0fceb7a75bdc00d3bbfe477d997f4c9fb364"
+git-tree-sha1 = "9ce8e51bee9a516f0f6428e0e1bea1fb5f8156ca"
 os = "freebsd"
 
     [[Clingo.download]]
-    sha256 = "da7ea27736d673ea1fa8850efaff2ced3c6686638eaa631f8438eab6669ae02d"
-    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.0+0/Clingo.v5.8.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "80fbcd519252dd5ee565ff71359d29eef9dbe49ef4c5107fd86c8374cd9d9d79"
+    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.2+0/Clingo.v5.8.2.x86_64-unknown-freebsd.tar.gz"
 [[Clingo]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d855585daeca7c69e0aea98f4bb143ee984fe804"
+git-tree-sha1 = "f0c05c09900dcc0dcfcc8079bd9ab08fd72ecb30"
 os = "windows"
 
     [[Clingo.download]]
-    sha256 = "69c8a6f7c3ad1c82f82e95b30f16d2dac6fc056924b622d7ed555aa72d2b7952"
-    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.0+0/Clingo.v5.8.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "f0d0abeb338d24a7c035ecd0a1d50b0af659593d2cf6823e862762b396b25e0e"
+    url = "https://github.com/JuliaBinaryWrappers/Clingo_jll.jl/releases/download/Clingo-v5.8.2+0/Clingo.v5.8.2.x86_64-w64-mingw32-cxx11.tar.gz"
